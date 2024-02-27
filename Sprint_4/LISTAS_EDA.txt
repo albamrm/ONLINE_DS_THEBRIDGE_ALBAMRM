@@ -1,0 +1,13 @@
+PROYECTO EDA - Alba Mª Romero
+
+Problemas:
+- Puesta en valor de los lugares menos visitados por los turistas en Sevilla
+- Control del cambio climático y de la extinción de especies
+- Detectar subidas/bajadas significativas en bolsa o criptomonedas
+
+Conjuntos de Datos:
+- Histórico de los lugares más y menos visitados por los turistas en Sevilla en los últimos años
+- Motivos y fechas por los que los turistas vienen a Sevilla
+- Histórico de la información meteorológica en el mundo en los últimos años
+- Histórico de las especies, hábitats y fechas de extinción
+- Histórico de las subidas/bajadas del mercado y sus fechas de los últimos años
