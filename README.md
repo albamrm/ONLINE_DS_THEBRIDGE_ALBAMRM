@@ -1,10 +1,6 @@
 ## **EQUIPO 3 - SOLUCIONES HERODES**
 
-> Formado por:
-* Pepe Reina
-* Alba María Romero
-* Unai Salas
-* Anna Valsells
+> Formado por: Pepe Reina, Alba María Romero, Unai Salas, Anna Valsells
 
 Somos una empresa en expansión que toca ambitos muy distintos, tanto, que te sorprendería.
 
